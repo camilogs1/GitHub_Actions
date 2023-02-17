@@ -1,0 +1,14 @@
+name: GitHub_Actions
+title: GitHub_Actions
+username:
+account: stm6tz-camilo-garcia0saldarriaga
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8345648
+bundleId: 6858899
+url: https://stm6tz-camilo-garcia0saldarriaga.shinyapps.io/GitHub_Actions/
+when: 1676657013.06854
+lastSyncTime: 1676657013.06856
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .github/workflows/main.yml|.github/workflows/PR.yml|deploy.R|Dockerfile|LICENSE
